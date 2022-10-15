@@ -1,3 +1,5 @@
-x     = 7
+x = 7
+
+
 def lol():
-    return     50    ;
+    return 50
